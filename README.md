@@ -2,7 +2,7 @@
 A new Alfred workflow of bilibili.com for Alfred 3
 
 ## download-link
-https://github.com/iblueer/alfred-workflow-bilibili/raw/master/Bilibili%20v3.alfredworkflow
+https://github.com/iblueer/alfred-workflow-bilibili/raw/master/Bilibili%20v3.1.alfredworkflow
 
 ## functions-easy-guide
 -Quickly open bilibili.com in safari with command 'bili'
